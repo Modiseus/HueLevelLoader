@@ -10,7 +10,7 @@
 local autoAttachTimerInterval = 1000 ---- Timer intervals are in milliseconds
 local autoAttachTimerTickMax = 10 ---- Set to zero to disable ticks max
 --build settings
-local useImageFolder = true
+local useImageFolder = false
 local imageFolder = "levels"
 local hideWindows = true
 
