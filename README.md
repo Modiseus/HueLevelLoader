@@ -33,8 +33,8 @@ You can also unlock or lock individual colors using their corresponding buttons.
 
 ## Some things to note 
 
-* If you start a new game like normal after using the HueLevelLoader you just have to restart the game.
+* To start a new game like normal after using the HueLevelLoader you have to close and restart the game.
 
 * HueLevelLoader works by changing which level the game loads when you start a new game. This has the side effect that all your progress (colors unlocked, beakers unlocked, map areas unlocked) will be reset.
 
-* The HueLevelLoader also displays the state of the `CurrentLevel` and `LastDoor` variables. This can you help understand how death warps work.
+* The HueLevelLoader also displays the state of the `CurrentLevel` and `LastDoor` variables. This can help you understand how death warps work.
