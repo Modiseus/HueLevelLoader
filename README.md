@@ -1,3 +1,5 @@
+Please head over to https://github.com/Modiseus/HueLevelLoaderMod for a new level loader that works as a mod inside the game.
+
 # HueLevelLoader
 I created HueLevelLoader to help practicing levels for the Hue speedrun.
 It allows you to load any level and unlock the necessary colors to beat it.
